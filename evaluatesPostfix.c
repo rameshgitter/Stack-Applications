@@ -136,7 +136,7 @@ int main() {
     printf("enter your postfix expression: ");
     scanf("%s",postfixExp);
     char prefixExp[50];
-    printf("enter your postfix expression: ");
+    printf("enter your prefix expression: ");
     scanf("%s",prefixExp);
 
     printf("Postfix Expression: %s\n", postfixExp);
